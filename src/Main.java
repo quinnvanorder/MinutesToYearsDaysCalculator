@@ -6,6 +6,6 @@ Otherwise if the parameter is valid it needs to print a message in the format "X
  */
 public class Main {
     public static void main(String[] args) {
-
+        MinutesToYearsDaysCalculator.printYearsAndDays(561600);
     }
 }
